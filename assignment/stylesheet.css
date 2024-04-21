@@ -1,1 +1,16 @@
-.img
+header {
+    background-color: darkslategrey;
+    text-align: center;
+    background-color: url("record.png");
+}
+
+body {
+    background-image: url("record.png");
+
+}
+
+main {
+    background-color: lightgray;
+    background-image: url("record.png");
+    
+}
