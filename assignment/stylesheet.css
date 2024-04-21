@@ -1,20 +1,23 @@
+body {
+
+    background-image: url("record.png");
+    margin: 0,
+}
+
 header {
     background-color: darkslategrey;
     text-align: center;
-    background-color: url("record.png");
-}
+    color: lightgoldenrodyellow;
 
-body {
-    background-image: url("record.png");
-    margin: 0,
-    
 
+ 
 }
 
 main {
     background-color: lightgray;
-    background-image: url("record.png");
     background-repeat:  repeat;
-    padding: 2em;
+    padding: 1em;
 
 }
+
+
